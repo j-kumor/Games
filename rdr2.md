@@ -1,4 +1,6 @@
-# Red Dead Redemption 2: Game Overview
+# Red Dead Redemption 2
+
+![rdr](https://www.gamebyte.com/wp-content/uploads/2022/07/625b0cf3-rdr2.jpg)
 
 ## Introduction to RDR2
 *Red Dead Redemption 2* (RDR2) is an action-adventure game developed by Rockstar Games, released in 2018. Set in the late 1800s, it follows Arthur Morgan, a member of the Van der Linde gang, as they navigate the decline of the Wild West. The game is known for its open-world environment, detailed narrative, and immersive gameplay.
