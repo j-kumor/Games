@@ -15,8 +15,8 @@ Arthur Morgan, the main protagonist, is a complex character who must balance his
 ## Online Mode and Red Dead Online
 In addition to the story mode, RDR2 features *Red Dead Online*, an online multiplayer component. Players can create their own characters, join gangs, and explore the world with others.
 
-![Arthur Morgan](https://example.com/arthur-morgan.jpg)
-![Red Dead Redemption 2 World](https://example.com/rdr2-world.jpg)
+![Gang](https://oyster.ignimgs.com/wordpress/stg.ign.com/2018/05/RDR2_Screenshot-020.jpg)
+![Red Dead Redemption 2 World](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/Wild-Boar-locations-in-Red-Dead-REdemption-2-Online-RDO-RDR2-map.jpg)
 
 ## Useful Resources:
 - [Official Red Dead Redemption 2 Website](https://www.rockstargames.com/reddeadredemption2)
