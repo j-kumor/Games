@@ -22,9 +22,9 @@ Cyberpunk 2077 had a troubled development cycle, marked by multiple delays, perf
 
 Cyberpunk 2077 has had a significant impact on gaming culture, influencing everything from fashion to music. The game’s aesthetic has inspired a resurgence of interest in cyberpunk-themed media, as well as a growing movement of fans who continue to create and share content. Despite its rocky launch, the game has left an indelible mark on the gaming world, with many players praising the narrative depth and the potential of the open-world design.
 
-![Cyberpunk 2077 Night City](https://example.com/night-city-image.jpg)
+![Cyberpunk 2077 Night City]([https://example.com/night-city-image.jpg](https://justjoin.it/blog/wp-content/uploads/2020/10/Cyberpunk2077_Love_this_town_RGB-en.jpg))
 
-![Cyberpunk 2077 Gameplay](https://example.com/cyberpunk-gameplay.jpg)
+![Cyberpunk 2077 Covver art](https://cdna.artstation.com/p/assets/images/images/033/037/886/large/artur-tarnowski-malemain.jpg?1608208334)
 
 ## Useful Resources
 
